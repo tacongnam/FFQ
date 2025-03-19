@@ -1,0 +1,873 @@
+Rc: 80.0
+Rs: 40.0
+base_station:
+- 500
+- 500
+max_time: 604800
+node_phy_spe:
+  capacity: 10800
+  com_range: 80.0
+  efs: 1.0e-08
+  emp: 1.3e-12
+  er: 0.0001
+  et: 5.0e-05
+  package_size: 400.0
+  prob_gp: 1
+  sen_range: 40.0
+  threshold: 540
+nodes: []
+seed: 0
+Clusters:
+- centroid:
+  - 500.0
+  - 500.0
+  cluster_id: 0
+  list_targets:
+  - - 835.7651039198697
+    - 432.76706790505335
+  - - 939.1491627785106
+    - 381.20423768821246
+  - - 837.5779756625728
+    - 556.4543226524335
+  - - 936.4405867994597
+    - 422.1069999614152
+  - - 797.4042475543029
+    - 414.3139993007743
+  - - 770.5231398308006
+    - 539.6174484497787
+  - - 809.1399008724795
+    - 518.678283523002
+- centroid:
+  - 453.32738045593845
+  - 493.31679854942587
+  cluster_id: 1
+  list_targets:
+  - - 495.43508709194094
+    - 449.49106478873813
+  - - 437.88759365057206
+    - 495.81224138185064
+  - - 505.28382057960044
+    - 589.0022579825517
+  - - 374.7030205016403
+    - 438.9616300445631
+- centroid:
+  - 714.9433437467632
+  - 748.7217158146505
+  cluster_id: 2
+  list_targets:
+  - - 651.592972722763
+    - 788.7233511355132
+  - - 721.4844075832684
+    - 711.1917696952796
+  - - 703.0407620656315
+    - 674.4858305023272
+  - - 783.6552326153899
+    - 820.4859119254819
+- centroid:
+  - 316.73360205122316
+  - 62.44033565262595
+  cluster_id: 3
+  list_targets:
+  - - 93.8595867742349
+    - 28.34747652200631
+  - - 289.78161459048556
+    - 21.489705265908874
+  - - 489.6935204622582
+    - 29.574963966907063
+  - - 393.599686377914
+    - 170.34919685568127
+- centroid:
+  - 34.46657567499409
+  - 622.3972806986662
+  cluster_id: 4
+  list_targets:
+  - - 25.4458609934608
+    - 541.4124727934966
+  - - 43.48729035652743
+    - 703.382088603836
+- centroid:
+  - 104.38525694739712
+  - 256.998341679304
+  cluster_id: 5
+  list_targets:
+  - - 29.04078757486794
+    - 221.69166627303505
+  - - 233.08445025757263
+    - 230.8665415409843
+  - - 120.88995980580641
+    - 332.6951853601291
+  - - 34.52583015134159
+    - 242.73997354306763
+- centroid:
+  - 873.6079405098841
+  - 12.80172194501904
+  cluster_id: 6
+  list_targets:
+  - - 762.280082457942
+    - 2.1060533511106927
+  - - 901.4274576114835
+    - 30.589983033553537
+  - - 957.1162814602269
+    - 5.709129450392925
+- centroid:
+  - 476.9068411523916
+  - 749.9913236704642
+  cluster_id: 7
+  list_targets:
+  - - 445.38719405480145
+    - 721.5400323407825
+  - - 508.42648824998184
+    - 778.4426150001458
+- centroid:
+  - 755.4529202765364
+  - 224.38380656571798
+  cluster_id: 8
+  list_targets:
+  - - 763.7746189766141
+    - 255.0690257394217
+  - - 642.2943629324456
+    - 185.9062658947177
+  - - 860.2897789205496
+    - 232.17612806301457
+- centroid:
+  - 181.56323269142695
+  - 896.3522162455774
+  cluster_id: 9
+  list_targets:
+  - - 134.36424411240122
+    - 847.4337369372327
+  - - 228.76222127045264
+    - 945.2706955539223
+- centroid:
+  - 236.2071648843384
+  - 513.2191436636824
+  cluster_id: 10
+  list_targets:
+  - - 216.59939713061337
+    - 422.1165755827173
+  - - 218.78103733768862
+    - 459.6034657377336
+  - - 303.3685109329176
+    - 587.5806061435594
+  - - 173.00740157905093
+    - 548.798761388153
+  - - 269.27947744142125
+    - 547.9963094662489
+- centroid:
+  - 508.00511081056004
+  - 967.2720129034019
+  cluster_id: 11
+  list_targets:
+  - - 502.2385584334831
+    - 982.0766375385342
+  - - 513.771663187637
+    - 952.4673882682695
+- centroid:
+  - 914.8850808835864
+  - 742.0273311701856
+  cluster_id: 12
+  list_targets:
+  - - 992.5434121760651
+    - 859.9465287952899
+  - - 830.0356932743271
+    - 670.305566414071
+  - - 882.4790008318577
+    - 846.1974184283127
+  - - 983.1877173096739
+    - 593.1837303800576
+  - - 886.1795808260082
+    - 740.5034118331963
+- centroid:
+  - 553.363696730909
+  - 426.1591688543482
+  cluster_id: 13
+  list_targets:
+  - - 520.9384176131451
+    - 393.25509496422603
+  - - 577.7948078012031
+    - 459.13173191066835
+  - - 561.357864778379
+    - 426.0906796881502
+ConnectorNode:
+- cluster_id: 12
+  location:
+  - 924.2411710770647
+  - 778.6934070898405
+- cluster_id: 12
+  location:
+  - 963.7148199133126
+  - 785.4272648947809
+- cluster_id: 12
+  location:
+  - 941.0620756984551
+  - 738.4298696105653
+- cluster_id: 12
+  location:
+  - 899.2204441810087
+  - 712.7564041738399
+- cluster_id: 12
+  location:
+  - 951.6105168694205
+  - 722.7954927784937
+- cluster_id: 12
+  location:
+  - 963.6023602806656
+  - 673.5737778301282
+- cluster_id: 10
+  location:
+  - 243.92232685092296
+  - 550.1208231401301
+- cluster_id: 10
+  location:
+  - 206.6204656246366
+  - 495.2415195903334
+- cluster_id: 9
+  location:
+  - 197.40385358746823
+  - 886.3514703285
+- cluster_id: 8
+  location:
+  - 792.5947656880332
+  - 224.92991831307097
+- cluster_id: 8
+  location:
+  - 708.4886182955651
+  - 217.30465655047243
+- cluster_id: 6
+  location:
+  - 893.5576521443738
+  - 11.899750475825204
+- cluster_id: 6
+  location:
+  - 843.914416619528
+  - 8.196217464187969
+- cluster_id: 5
+  location:
+  - 78.6626140115821
+  - 274.43315887290385
+- cluster_id: 5
+  location:
+  - 160.07579404247838
+  - 250.604422100963
+- cluster_id: 4
+  location:
+  - 63.10281700325136
+  - 634.3721417064276
+- cluster_id: 4
+  location:
+  - 58.692670977064864
+  - 606.9857717695315
+- cluster_id: 3
+  location:
+  - 345.25922276525944
+  - 60.000749305852665
+- cluster_id: 3
+  location:
+  - 363.4593819704497
+  - 97.79309534078016
+- cluster_id: 3
+  location:
+  - 361.3115128518457
+  - 59.51624157656394
+- cluster_id: 3
+  location:
+  - 409.88171268260237
+  - 48.188689813218204
+- cluster_id: 3
+  location:
+  - 348.0242696770591
+  - 62.34011800454321
+- cluster_id: 3
+  location:
+  - 292.4323198855554
+  - 54.905106983361
+- cluster_id: 3
+  location:
+  - 236.8403700940516
+  - 47.47009596217879
+- cluster_id: 3
+  location:
+  - 181.2484203025478
+  - 40.03508494099658
+- cluster_id: 2
+  location:
+  - 751.5058224253153
+  - 757.5718748003887
+- cluster_id: 2
+  location:
+  - 739.8845928899701
+  - 736.7292011670205
+- cluster_id: 1
+  location:
+  - 452.3983388582967
+  - 536.1466782949781
+- cluster_id: 1
+  location:
+  - 420.9370549922773
+  - 499.59535396621357
+- cluster_id: 0
+  location:
+  - 825.428160142277
+  - 498.07295325107697
+- cluster_id: 0
+  location:
+  - 825.1491740911644
+  - 481.1772771772918
+- cluster_id: 0
+  location:
+  - 894.855718639289
+  - 443.5749418499545
+InNode:
+- cluster_id: 13
+  location:
+  - 563.2646012306824
+  - 456.63101963644493
+- cluster_id: 13
+  location:
+  - 527.4427922311357
+  - 407.32652937089733
+- cluster_id: 13
+  location:
+  - 585.403696730909
+  - 426.1591688543482
+- cluster_id: 10
+  location:
+  - 236.2071648843384
+  - 545.2591436636824
+- cluster_id: 10
+  location:
+  - 204.1671648843384
+  - 513.2191436636824
+- cluster_id: 8
+  location:
+  - 787.4929202765363
+  - 224.38380656571798
+- cluster_id: 7
+  location:
+  - 476.9068411523916
+  - 782.0313236704642
+- cluster_id: 7
+  location:
+  - 444.8668411523916
+  - 749.9913236704642
+- cluster_id: 2
+  location:
+  - 746.9833437467631
+  - 748.7217158146505
+- cluster_id: 1
+  location:
+  - 437.30738045593847
+  - 521.0642524866793
+OutNode:
+- cluster_id: 13
+  location:
+  - 527.4427922311357
+  - 444.99180833779906
+- cluster_id: 12
+  location:
+  - 946.9250808835864
+  - 742.0273311701856
+- cluster_id: 11
+  location:
+  - 540.04511081056
+  - 967.2720129034019
+- cluster_id: 10
+  location:
+  - 268.2471648843384
+  - 513.2191436636824
+- cluster_id: 9
+  location:
+  - 213.60323269142694
+  - 896.3522162455774
+- cluster_id: 8
+  location:
+  - 723.4129202765364
+  - 224.38380656571798
+- cluster_id: 8
+  location:
+  - 755.4529202765364
+  - 256.423806565718
+- cluster_id: 7
+  location:
+  - 508.94684115239164
+  - 749.9913236704642
+- cluster_id: 6
+  location:
+  - 905.647940509884
+  - 12.80172194501904
+- cluster_id: 5
+  location:
+  - 88.36525694739713
+  - 284.7457956165574
+- cluster_id: 5
+  location:
+  - 136.42525694739712
+  - 256.998341679304
+- cluster_id: 4
+  location:
+  - 66.50657567499408
+  - 622.3972806986662
+- cluster_id: 3
+  location:
+  - 348.7736020512232
+  - 62.44033565262595
+- cluster_id: 2
+  location:
+  - 698.9233437467632
+  - 776.4691697519039
+- cluster_id: 1
+  location:
+  - 485.3673804559385
+  - 493.31679854942587
+- cluster_id: 0
+  location:
+  - 830.551445345428
+  - 494.1963624344919
+- cluster_id: 0
+  location:
+  - 878.6114453454279
+  - 466.4489084972385
+RelayNode:
+- location:
+  - 492.68369022796924
+  - 496.6583992747129
+  receive_cluster_id: -1
+  send_cluster_id: 1
+- location:
+  - 513.7213961155678
+  - 472.49590416889953
+  receive_cluster_id: -1
+  send_cluster_id: 13
+- location:
+  - 502.2367102880979
+  - 562.497830917616
+  receive_cluster_id: -1
+  send_cluster_id: 7
+- location:
+  - 504.4734205761958
+  - 624.9956618352321
+  receive_cluster_id: -1
+  send_cluster_id: 7
+- location:
+  - 506.7101308642937
+  - 687.4934927528482
+  receive_cluster_id: -1
+  send_cluster_id: 7
+- location:
+  - 380.9539752654051
+  - 518.449216212347
+  receive_cluster_id: 1
+  send_cluster_id: 10
+- location:
+  - 324.60057007487177
+  - 515.8341799380147
+  receive_cluster_id: 1
+  send_cluster_id: 10
+- location:
+  - 533.1538906244605
+  - 546.0781949586506
+  receive_cluster_id: -1
+  send_cluster_id: 2
+- location:
+  - 566.3077812489211
+  - 592.1563899173012
+  receive_cluster_id: -1
+  send_cluster_id: 2
+- location:
+  - 599.4616718733816
+  - 638.2345848759519
+  receive_cluster_id: -1
+  send_cluster_id: 2
+- location:
+  - 632.6155624978421
+  - 684.3127798346026
+  receive_cluster_id: -1
+  send_cluster_id: 2
+- location:
+  - 665.7694531223026
+  - 730.3909747932532
+  receive_cluster_id: -1
+  send_cluster_id: 2
+- location:
+  - 555.0919075575715
+  - 499.0327270724153
+  receive_cluster_id: -1
+  send_cluster_id: 0
+- location:
+  - 610.1838151151428
+  - 498.06545414483065
+  receive_cluster_id: -1
+  send_cluster_id: 0
+- location:
+  - 665.2757226727141
+  - 497.09818121724595
+  receive_cluster_id: -1
+  send_cluster_id: 0
+- location:
+  - 720.3676302302854
+  - 496.1309082896613
+  receive_cluster_id: -1
+  send_cluster_id: 0
+- location:
+  - 775.4595377878567
+  - 495.1636353620766
+  receive_cluster_id: -1
+  send_cluster_id: 0
+- location:
+  - 626.3339700536317
+  - 458.59459740860365
+  receive_cluster_id: 13
+  send_cluster_id: 0
+- location:
+  - 689.4033388765807
+  - 460.55817518076236
+  receive_cluster_id: 13
+  send_cluster_id: 0
+- location:
+  - 752.4727076995298
+  - 462.5217529529211
+  receive_cluster_id: 13
+  send_cluster_id: 0
+- location:
+  - 815.5420765224789
+  - 464.4853307250798
+  receive_cluster_id: 13
+  send_cluster_id: 0
+- location:
+  - 537.2354867127561
+  - 454.06396776095295
+  receive_cluster_id: -1
+  send_cluster_id: 8
+- location:
+  - 574.4709734255123
+  - 408.12793552190595
+  receive_cluster_id: -1
+  send_cluster_id: 8
+- location:
+  - 611.7064601382683
+  - 362.19190328285896
+  receive_cluster_id: -1
+  send_cluster_id: 8
+- location:
+  - 648.9419468510243
+  - 316.25587104381196
+  receive_cluster_id: -1
+  send_cluster_id: 8
+- location:
+  - 686.1774335637804
+  - 270.31983880476497
+  receive_cluster_id: -1
+  send_cluster_id: 8
+- location:
+  - 573.044817840216
+  - 377.1459848098614
+  receive_cluster_id: 13
+  send_cluster_id: 8
+- location:
+  - 618.6468434492961
+  - 346.96544024882553
+  receive_cluster_id: 13
+  send_cluster_id: 8
+- location:
+  - 664.2488690583762
+  - 316.7848956877897
+  receive_cluster_id: 13
+  send_cluster_id: 8
+- location:
+  - 709.8508946674563
+  - 286.60435112675384
+  receive_cluster_id: 13
+  send_cluster_id: 8
+- location:
+  - 448.5456571184247
+  - 473.0932244520697
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 397.0913142368493
+  - 446.18644890413935
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 345.63697135527394
+  - 419.27967335620906
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 294.18262847369857
+  - 392.3728978082787
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 242.7282855921232
+  - 365.46612226034836
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 191.27394271054783
+  - 338.55934671241806
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 139.81959982897249
+  - 311.65257116448777
+  receive_cluster_id: -1
+  send_cluster_id: 5
+- location:
+  - 216.25078329695015
+  - 487.6069832668067
+  receive_cluster_id: 10
+  send_cluster_id: 5
+- location:
+  - 196.29440170956187
+  - 429.95482286993104
+  receive_cluster_id: 10
+  send_cluster_id: 5
+- location:
+  - 176.33802012217362
+  - 372.30266247305536
+  receive_cluster_id: 10
+  send_cluster_id: 5
+- location:
+  - 156.38163853478537
+  - 314.6505020761797
+  receive_cluster_id: 10
+  send_cluster_id: 5
+- location:
+  - 492.6914085669338
+  - 828.3414959786986
+  receive_cluster_id: 7
+  send_cluster_id: 11
+- location:
+  - 508.47597598147587
+  - 874.651668286933
+  receive_cluster_id: 7
+  send_cluster_id: 11
+- location:
+  - 524.260543396018
+  - 920.9618405951675
+  receive_cluster_id: 7
+  send_cluster_id: 11
+- location:
+  - 551.5993974909538
+  - 374.19933553981645
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 517.7950982509988
+  - 322.2395022252847
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 483.9907990110437
+  - 270.27966891075295
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 450.18649977108856
+  - 218.3198355962212
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 416.38220053113344
+  - 166.36000228168945
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 382.5779012911783
+  - 114.4001689671577
+  receive_cluster_id: 13
+  send_cluster_id: 3
+- location:
+  - 796.968778030969
+  - 747.0481196535342
+  receive_cluster_id: 2
+  send_cluster_id: 12
+- location:
+  - 846.9542123151748
+  - 745.374523492418
+  receive_cluster_id: 2
+  send_cluster_id: 12
+- location:
+  - 896.9396465993806
+  - 743.7009273313017
+  receive_cluster_id: 2
+  send_cluster_id: 12
+- location:
+  - 158.28030181455696
+  - 549.611856008677
+  receive_cluster_id: 10
+  send_cluster_id: 4
+- location:
+  - 112.39343874477552
+  - 586.0045683536716
+  receive_cluster_id: 10
+  send_cluster_id: 4
+- location:
+  - 398.6141194601987
+  - 779.2635021854868
+  receive_cluster_id: 7
+  send_cluster_id: 9
+- location:
+  - 352.36139776800576
+  - 808.5356807005095
+  receive_cluster_id: 7
+  send_cluster_id: 9
+- location:
+  - 306.1086760758128
+  - 837.8078592155321
+  receive_cluster_id: 7
+  send_cluster_id: 9
+- location:
+  - 259.85595438361986
+  - 867.0800377305547
+  receive_cluster_id: 7
+  send_cluster_id: 9
+- location:
+  - 817.0316753348732
+  - 171.48828541054326
+  receive_cluster_id: 8
+  send_cluster_id: 6
+- location:
+  - 846.5704303932101
+  - 118.59276425536851
+  receive_cluster_id: 8
+  send_cluster_id: 6
+- location:
+  - 876.1091854515471
+  - 65.69724310019377
+  receive_cluster_id: 8
+  send_cluster_id: 6
+SensorNode:
+- cluster_id: 12
+  location:
+  - 899.3568517044714
+  - 818.9162060300007
+- cluster_id: 12
+  location:
+  - 980.9688581367247
+  - 830.0273694021787
+- cluster_id: 12
+  location:
+  - 857.3788126635624
+  - 687.0829387371144
+- cluster_id: 12
+  location:
+  - 975.5942036919107
+  - 624.3520628817627
+- cluster_id: 11
+  location:
+  - 532.1099419174002
+  - 970.3793366209393
+- cluster_id: 10
+  location:
+  - 194.14282948536078
+  - 524.6653802073657
+- cluster_id: 10
+  location:
+  - 276.2276839166267
+  - 570.4779189607868
+- cluster_id: 10
+  location:
+  - 212.26182977889266
+  - 453.9019796145884
+- cluster_id: 9
+  location:
+  - 219.26665304286112
+  - 914.6282318142823
+- cluster_id: 9
+  location:
+  - 161.66142401148872
+  - 864.2857507503309
+- cluster_id: 8
+  location:
+  - 828.3920006492424
+  - 228.7617260136763
+- cluster_id: 8
+  location:
+  - 671.2789475923815
+  - 199.65472952128363
+- cluster_id: 6
+  location:
+  - 925.3366135453964
+  - 10.088525210437057
+- cluster_id: 6
+  location:
+  - 794.2711810946821
+  - 4.4926844525507335
+- cluster_id: 5
+  location:
+  - 102.88168916447168
+  - 306.1465773267793
+- cluster_id: 5
+  location:
+  - 51.02324033505117
+  - 245.0561301155099
+- cluster_id: 5
+  location:
+  - 202.1162135581604
+  - 239.23880024035444
+- cluster_id: 4
+  location:
+  - 52.258333999468114
+  - 672.5244283974362
+- cluster_id: 4
+  location:
+  - 39.952878627678444
+  - 570.0249323061023
+- cluster_id: 3
+  location:
+  - 316.13451707327636
+  - 39.78317215254682
+- cluster_id: 3
+  location:
+  - 381.2930326032674
+  - 140.7236559682818
+- cluster_id: 3
+  location:
+  - 458.451912513359
+  - 36.861138049872466
+- cluster_id: 3
+  location:
+  - 125.65647051104402
+  - 32.60007391981437
+- cluster_id: 2
+  location:
+  - 682.6489664183156
+  - 780.6827258127041
+- cluster_id: 2
+  location:
+  - 769.057665081554
+  - 791.9195432011393
+- cluster_id: 2
+  location:
+  - 719.381720030305
+  - 702.0919800490635
+- cluster_id: 1
+  location:
+  - 488.25270386472965
+  - 480.7566972176124
+- cluster_id: 1
+  location:
+  - 482.593421245305
+  - 566.3246880499022
+- cluster_id: 1
+  location:
+  - 394.15471109685615
+  - 464.47159149079016
+- cluster_id: 0
+  location:
+  - 833.9802180470011
+  - 524.5767044832603
+- cluster_id: 0
+  location:
+  - 796.1051136673603
+  - 520.2605629919999
+- cluster_id: 0
+  location:
+  - 809.6993584848923
+  - 443.9443325288111
+- cluster_id: 0
+  location:
+  - 920.5744915662634
+  - 407.35969580610663

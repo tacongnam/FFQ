@@ -1,0 +1,4018 @@
+Clusters:
+- centroid:
+  - 500
+  - 500
+  cluster_id: 0
+  list_targets:
+  - - 161
+    - 950
+  - - 491
+    - 571
+  - - 450
+    - 457
+  - - 798
+    - 647
+  - - 700
+    - 72
+  - - 961
+    - 480
+  - - 951
+    - 193
+  - - 285
+    - 783
+  - - 567
+    - 926
+  - - 749
+    - 441
+  - - 236
+    - 364
+  - - 156
+    - 540
+  - - 597
+    - 697
+  - - 428
+    - 524
+  - - 679
+    - 340
+  - - 137
+    - 519
+  - - 785
+    - 349
+  - - 21
+    - 696
+  - - 345
+    - 797
+  - - 334
+    - 690
+  - - 214
+    - 347
+  - - 730
+    - 552
+  - - 293
+    - 160
+  - - 954
+    - 414
+  - - 57
+    - 385
+  - - 91
+    - 13
+  - - 44
+    - 501
+  - - 512
+    - 203
+  - - 437
+    - 405
+  - - 748
+    - 296
+  - - 543
+    - 379
+  - - 889
+    - 638
+  - - 196
+    - 618
+  - - 637
+    - 421
+  - - 200
+    - 394
+  - - 336
+    - 736
+  - - 821
+    - 196
+  - - 212
+    - 835
+  - - 296
+    - 748
+  - - 721
+    - 9
+  - - 600
+    - 389
+  - - 454
+    - 54
+  - - 335
+    - 446
+  - - 797
+    - 249
+  - - 435
+    - 927
+  - - 216
+    - 995
+  - - 121
+    - 193
+  - - 3
+    - 639
+  - - 405
+    - 334
+  - - 19
+    - 1
+  - - 404
+    - 93
+  - - 551
+    - 297
+  - - 363
+    - 579
+  - - 190
+    - 898
+  - - 968
+    - 284
+  - - 540
+    - 212
+  - - 971
+    - 668
+  - - 468
+    - 810
+  - - 501
+    - 842
+  - - 939
+    - 516
+  - - 335
+    - 563
+  - - 227
+    - 12
+  - - 195
+    - 111
+  - - 357
+    - 22
+  - - 28
+    - 417
+  - - 826
+    - 175
+  - - 601
+    - 868
+  - - 362
+    - 417
+  - - 530
+    - 422
+  - - 683
+    - 590
+  - - 578
+    - 170
+  - - 517
+    - 367
+  - - 511
+    - 32
+  - - 107
+    - 602
+  - - 698
+    - 242
+  - - 979
+    - 416
+  - - 730
+    - 452
+  - - 283
+    - 847
+  - - 426
+    - 586
+  - - 999
+    - 888
+  - - 129
+    - 612
+  - - 259
+    - 768
+  - - 689
+    - 803
+  - - 959
+    - 763
+  - - 925
+    - 71
+  - - 707
+    - 658
+  - - 20
+    - 276
+  - - 975
+    - 644
+  - - 242
+    - 452
+  - - 671
+    - 703
+  - - 967
+    - 47
+  - - 480
+    - 18
+  - - 873
+    - 801
+  - - 582
+    - 231
+  - - 593
+    - 622
+  - - 986
+    - 773
+  - - 567
+    - 443
+  - - 536
+    - 468
+  - - 3
+    - 120
+  - - 467
+    - 778
+  - - 436
+    - 873
+  - - 496
+    - 383
+  - - 41
+    - 70
+  - - 427
+    - 297
+  - - 840
+    - 358
+  - - 854
+    - 54
+  - - 876
+    - 5
+  - - 860
+    - 708
+  - - 771
+    - 178
+  - - 345
+    - 892
+  - - 597
+    - 116
+  - - 6
+    - 931
+  - - 141
+    - 790
+  - - 373
+    - 171
+  - - 999
+    - 543
+  - - 728
+    - 778
+  - - 273
+    - 343
+  - - 687
+    - 411
+  - - 351
+    - 545
+  - - 568
+    - 482
+  - - 1
+    - 93
+  - - 36
+    - 802
+  - - 793
+    - 731
+  - - 684
+    - 351
+  - - 269
+    - 514
+  - - 773
+    - 278
+  - - 86
+    - 813
+  - - 286
+    - 450
+  - - 160
+    - 512
+  - - 39
+    - 862
+  - - 107
+    - 188
+  - - 873
+    - 383
+  - - 601
+    - 734
+  - - 299
+    - 413
+  - - 87
+    - 961
+  - - 806
+    - 154
+  - - 189
+    - 193
+  - - 628
+    - 87
+  - - 992
+    - 366
+  - - 973
+    - 200
+  - - 614
+    - 300
+  - - 920
+    - 396
+  - - 837
+    - 990
+  - - 437
+    - 329
+  - - 913
+    - 318
+  - - 656
+    - 105
+  - - 246
+    - 566
+  - - 590
+    - 334
+  - - 118
+    - 682
+  - - 913
+    - 955
+  - - 459
+    - 640
+  - - 21
+    - 176
+  - - 829
+    - 526
+  - - 493
+    - 482
+  - - 346
+    - 107
+  - - 40
+    - 614
+  - - 626
+    - 561
+  - - 418
+    - 807
+  - - 541
+    - 604
+  - - 535
+    - 939
+  - - 278
+    - 911
+  - - 338
+    - 728
+  - - 148
+    - 82
+  - - 143
+    - 468
+  - - 93
+    - 563
+  - - 405
+    - 676
+  - - 390
+    - 740
+  - - 855
+    - 540
+  - - 231
+    - 790
+  - - 765
+    - 236
+  - - 504
+    - 793
+  - - 525
+    - 931
+  - - 547
+    - 967
+  - - 612
+    - 487
+  - - 733
+    - 735
+  - - 740
+    - 905
+  - - 107
+    - 392
+  - - 370
+    - 149
+  - - 688
+    - 818
+  - - 470
+    - 181
+  - - 393
+    - 429
+  - - 706
+    - 991
+  - - 276
+    - 934
+  - - 802
+    - 772
+  - - 361
+    - 508
+  - - 433
+    - 209
+  - - 640
+    - 224
+  - - 114
+    - 115
+  - - 356
+    - 676
+  - - 928
+    - 233
+  - - 301
+    - 100
+  - - 257
+    - 982
+  - - 758
+    - 227
+  - - 499
+    - 193
+  - - 434
+    - 170
+  - - 55
+    - 126
+  - - 932
+    - 668
+  - - 552
+    - 848
+  - - 815
+    - 545
+  - - 853
+    - 641
+  - - 668
+    - 919
+  - - 816
+    - 304
+  - - 428
+    - 626
+  - - 19
+    - 482
+  - - 606
+    - 17
+  - - 284
+    - 270
+  - - 150
+    - 127
+  - - 48
+    - 763
+  - - 322
+    - 947
+  - - 67
+    - 23
+  - - 975
+    - 717
+  - - 710
+    - 348
+  - - 643
+    - 322
+  - - 927
+    - 588
+  - - 896
+    - 248
+  - - 171
+    - 609
+  - - 324
+    - 303
+  - - 865
+    - 84
+  - - 31
+    - 566
+  - - 210
+    - 290
+  - - 723
+    - 698
+  - - 291
+    - 65
+  - - 55
+    - 475
+  - - 183
+    - 683
+  - - 261
+    - 715
+  - - 151
+    - 355
+  - - 75
+    - 290
+  - - 972
+    - 989
+  - - 990
+    - 331
+  - - 209
+    - 521
+  - - 671
+    - 666
+  - - 456
+    - 572
+  - - 0
+    - 164
+  - - 65
+    - 559
+  - - 907
+    - 176
+  - - 944
+    - 801
+  - - 935
+    - 925
+  - - 1
+    - 660
+  - - 248
+    - 244
+  - - 275
+    - 6
+  - - 366
+    - 827
+  - - 411
+    - 354
+  - - 428
+    - 351
+  - - 356
+    - 474
+  - - 734
+    - 514
+  - - 801
+    - 258
+  - - 128
+    - 306
+  - - 54
+    - 829
+  - - 995
+    - 493
+  - - 375
+    - 928
+  - - 69
+    - 772
+  - - 136
+    - 768
+  - - 976
+    - 168
+  - - 454
+    - 245
+  - - 406
+    - 699
+  - - 290
+    - 623
+  - - 936
+    - 305
+  - - 528
+    - 646
+  - - 520
+    - 426
+  - - 427
+    - 714
+  - - 552
+    - 45
+  - - 133
+    - 18
+  - - 441
+    - 93
+  - - 829
+    - 911
+  - - 645
+    - 807
+  - - 954
+    - 991
+  - - 343
+    - 861
+  - - 537
+    - 256
+  - - 21
+    - 988
+  - - 842
+    - 715
+  - - 380
+    - 265
+  - - 804
+    - 495
+  - - 20
+    - 888
+  - - 901
+    - 764
+  - - 263
+    - 509
+  - - 794
+    - 735
+  - - 172
+    - 820
+  - - 796
+    - 225
+  - - 320
+    - 179
+  - - 926
+    - 25
+  - - 611
+    - 150
+  - - 242
+    - 342
+  - - 307
+    - 872
+  - - 232
+    - 592
+  - - 502
+    - 768
+  - - 561
+    - 708
+  - - 957
+    - 438
+  - - 888
+    - 661
+  - - 754
+    - 826
+  - - 90
+    - 261
+  - - 335
+    - 465
+  - - 775
+    - 942
+  - - 883
+    - 191
+  - - 992
+    - 436
+  - - 568
+    - 331
+  - - 660
+    - 989
+  - - 419
+    - 914
+  - - 355
+    - 516
+  - - 706
+    - 631
+  - - 906
+    - 980
+  - - 535
+    - 280
+  - - 842
+    - 949
+  - - 110
+    - 117
+  - - 39
+    - 321
+  - - 577
+    - 279
+  - - 134
+    - 406
+  - - 70
+    - 697
+  - - 340
+    - 36
+  - - 19
+    - 529
+  - - 803
+    - 897
+  - - 768
+    - 956
+  - - 250
+    - 689
+  - - 194
+    - 269
+  - - 246
+    - 308
+  - - 164
+    - 66
+  - - 762
+    - 53
+  - - 695
+    - 851
+  - - 228
+    - 167
+  - - 231
+    - 31
+  - - 125
+    - 874
+  - - 482
+    - 688
+  - - 434
+    - 387
+  - - 990
+    - 866
+  - - 738
+    - 254
+  - - 460
+    - 980
+  - - 10
+    - 731
+  - - 253
+    - 63
+  - - 104
+    - 355
+  - - 176
+    - 851
+  - - 393
+    - 231
+  - - 346
+    - 978
+  - - 223
+    - 859
+  - - 442
+    - 464
+  - - 780
+    - 672
+  - - 594
+    - 609
+  - - 304
+    - 665
+  - - 744
+    - 800
+  - - 878
+    - 812
+  - - 333
+    - 212
+  - - 558
+    - 259
+  - - 480
+    - 106
+  - - 791
+    - 66
+  - - 321
+    - 58
+  - - 567
+    - 169
+  - - 397
+    - 865
+  - - 474
+    - 598
+  - - 571
+    - 901
+  - - 462
+    - 309
+  - - 860
+    - 528
+  - - 623
+    - 151
+  - - 38
+    - 186
+  - - 588
+    - 808
+  - - 259
+    - 404
+  - - 754
+    - 130
+  - - 719
+    - 405
+  - - 895
+    - 439
+  - - 995
+    - 591
+  - - 32
+    - 608
+  - - 171
+    - 415
+  - - 264
+    - 623
+  - - 134
+    - 234
+  - - 512
+    - 145
+  - - 226
+    - 452
+  - - 652
+    - 274
+  - - 238
+    - 492
+  - - 708
+    - 939
+  - - 968
+    - 257
+  - - 994
+    - 956
+  - - 280
+    - 597
+  - - 660
+    - 454
+  - - 272
+    - 219
+  - - 978
+    - 672
+  - - 902
+    - 561
+  - - 816
+    - 37
+  - - 848
+    - 322
+  - - 166
+    - 337
+  - - 222
+    - 582
+  - - 554
+    - 12
+  - - 723
+    - 211
+  - - 125
+    - 698
+  - - 570
+    - 89
+  - - 37
+    - 268
+  - - 494
+    - 307
+  - - 491
+    - 956
+  - - 672
+    - 57
+  - - 840
+    - 485
+  - - 544
+    - 688
+  - - 832
+    - 235
+  - - 500
+    - 585
+  - - 555
+    - 627
+  - - 168
+    - 92
+  - - 812
+    - 50
+  - - 758
+    - 159
+  - - 888
+    - 922
+  - - 71
+    - 918
+  - - 669
+    - 853
+  - - 642
+    - 183
+  - - 363
+    - 295
+  - - 170
+    - 803
+  - - 94
+    - 61
+  - - 848
+    - 279
+  - - 375
+    - 204
+  - - 659
+    - 149
+  - - 857
+    - 754
+  - - 235
+    - 959
+  - - 233
+    - 370
+  - - 95
+    - 332
+  - - 52
+    - 238
+  - - 397
+    - 640
+  - - 900
+    - 138
+  - - 412
+    - 12
+  - - 666
+    - 571
+  - - 214
+    - 793
+  - - 690
+    - 503
+  - - 155
+    - 8
+  - - 791
+    - 443
+  - - 768
+    - 880
+  - - 422
+    - 171
+  - - 259
+    - 890
+  - - 158
+    - 248
+  - - 631
+    - 367
+  - - 762
+    - 586
+  - - 488
+    - 863
+  - - 749
+    - 468
+  - - 179
+    - 356
+  - - 731
+    - 562
+  - - 402
+    - 273
+  - - 953
+    - 381
+  - - 77
+    - 717
+  - - 270
+    - 812
+  - - 626
+    - 966
+  - - 108
+    - 497
+  - - 695
+    - 105
+  - - 222
+    - 71
+  - - 207
+    - 492
+  - - 464
+    - 450
+  - - 539
+    - 892
+  - - 99
+    - 513
+  - - 727
+    - 917
+  - - 232
+    - 842
+  - - 167
+    - 741
+  - - 669
+    - 33
+  - - 201
+    - 729
+  - - 642
+    - 813
+  - - 506
+    - 673
+  - - 10
+    - 77
+  - - 579
+    - 949
+  - - 137
+    - 646
+  - - 503
+    - 702
+  - - 896
+    - 91
+  - - 44
+    - 229
+  - - 543
+    - 840
+  - - 6
+    - 856
+  - - 814
+    - 789
+  - - 194
+    - 668
+  - - 558
+    - 751
+  - - 176
+    - 474
+  - - 499
+    - 901
+  - - 652
+    - 850
+  - - 582
+    - 74
+  - - 959
+    - 897
+  - - 170
+    - 293
+  - - 809
+    - 413
+  - - 91
+    - 651
+  - - 734
+    - 680
+  - - 274
+    - 979
+  - - 752
+    - 717
+  - - 749
+    - 330
+  - - 234
+    - 885
+  - - 898
+    - 864
+  - - 497
+    - 527
+  - - 453
+    - 35
+  - - 125
+    - 424
+  - - 760
+    - 8
+  - - 103
+    - 769
+  - - 991
+    - 143
+  - - 613
+    - 237
+  - - 848
+    - 267
+  - - 730
+    - 527
+  - - 318
+    - 529
+  - - 777
+    - 861
+  - - 479
+    - 977
+  - - 907
+    - 725
+  - - 603
+    - 364
+  - - 633
+    - 439
+  - - 30
+    - 327
+  - - 418
+    - 265
+  - - 393
+    - 63
+  - - 934
+    - 560
+  - - 360
+    - 373
+  - - 637
+    - 293
+  - - 390
+    - 543
+  - - 872
+    - 987
+  - - 540
+    - 125
+  - - 100
+    - 997
+  - - 889
+    - 522
+  - - 361
+    - 56
+  - - 705
+    - 598
+  - - 677
+    - 165
+  - - 384
+    - 901
+  - - 770
+    - 605
+  - - 800
+    - 522
+  - - 750
+    - 640
+  - - 584
+    - 566
+  - - 813
+    - 835
+  - - 658
+    - 471
+  - - 27
+    - 223
+  - - 286
+    - 468
+  - - 756
+    - 969
+  - - 882
+    - 478
+  - - 816
+    - 681
+  - - 888
+    - 488
+  - - 401
+    - 962
+  - - 598
+    - 977
+  - - 794
+    - 996
+  - - 522
+    - 989
+  - - 832
+    - 78
+  - - 90
+    - 914
+  - - 682
+    - 745
+  - - 830
+    - 327
+  - - 882
+    - 151
+  - - 515
+    - 549
+  - - 179
+    - 183
+  - - 599
+    - 887
+  - - 635
+    - 684
+  - - 372
+    - 653
+  - - 748
+    - 410
+  - - 195
+    - 575
+  - - 932
+    - 142
+  - - 535
+    - 504
+  - - 498
+    - 57
+  - - 922
+    - 217
+  - - 318
+    - 623
+  - - 313
+    - 420
+  - - 329
+    - 837
+  - - 286
+    - 267
+  - - 363
+    - 431
+  - - 513
+    - 343
+  - - 879
+    - 207
+  - - 72
+    - 936
+  - - 523
+    - 90
+  - - 68
+    - 442
+  - - 876
+    - 905
+  - - 214
+    - 897
+  - - 635
+    - 630
+  - - 84
+    - 875
+  - - 653
+    - 203
+  - - 856
+    - 392
+  - - 136
+    - 47
+  - - 71
+    - 361
+  - - 383
+    - 727
+  - - 82
+    - 781
+  - - 304
+    - 379
+  - - 148
+    - 316
+  - - 580
+    - 672
+  - - 938
+    - 323
+  - - 362
+    - 500
+  - - 463
+    - 255
+  - - 417
+    - 137
+  - - 199
+    - 752
+  - - 155
+    - 149
+  - - 587
+    - 502
+  - - 116
+    - 555
+  - - 447
+    - 597
+  - - 948
+    - 854
+  - - 505
+    - 906
+  - - 459
+    - 913
+  - - 139
+    - 929
+  - - 822
+    - 621
+  - - 321
+    - 336
+  - - 627
+    - 515
+  - - 49
+    - 596
+  - - 628
+    - 927
+  - - 465
+    - 134
+  - - 191
+    - 706
+  - - 397
+    - 416
+  - - 88
+    - 295
+  - - 343
+    - 995
+  - - 383
+    - 310
+  - - 432
+    - 772
+  - - 387
+    - 815
+  - - 701
+    - 298
+  - - 415
+    - 527
+  - - 504
+    - 168
+  - - 955
+    - 726
+  - - 50
+    - 619
+  - - 893
+    - 286
+  - - 892
+    - 809
+  - - 726
+    - 747
+  - - 412
+    - 476
+  - - 91
+    - 754
+  - - 255
+    - 152
+  - - 760
+    - 382
+  - - 341
+    - 235
+  - - 56
+    - 992
+  - - 601
+    - 793
+  - - 381
+    - 883
+  - - 277
+    - 129
+  - - 776
+    - 14
+  - - 316
+    - 142
+ConnectorNode:
+- cluster_id: 0
+  location:
+  - 21
+  - 988
+- cluster_id: 0
+  location:
+  - 56
+  - 992
+- cluster_id: 0
+  location:
+  - 100
+  - 997
+- cluster_id: 0
+  location:
+  - 141
+  - 970
+- cluster_id: 0
+  location:
+  - 161
+  - 982
+- cluster_id: 0
+  location:
+  - 216
+  - 995
+- cluster_id: 0
+  location:
+  - 257
+  - 982
+- cluster_id: 0
+  location:
+  - 274
+  - 979
+- cluster_id: 0
+  location:
+  - 343
+  - 995
+- cluster_id: 0
+  location:
+  - 346
+  - 978
+- cluster_id: 0
+  location:
+  - 401
+  - 962
+- cluster_id: 0
+  location:
+  - 460
+  - 980
+- cluster_id: 0
+  location:
+  - 479
+  - 977
+- cluster_id: 0
+  location:
+  - 522
+  - 989
+- cluster_id: 0
+  location:
+  - 547
+  - 967
+- cluster_id: 0
+  location:
+  - 598
+  - 977
+- cluster_id: 0
+  location:
+  - 626
+  - 966
+- cluster_id: 0
+  location:
+  - 660
+  - 989
+- cluster_id: 0
+  location:
+  - 706
+  - 991
+- cluster_id: 0
+  location:
+  - 756
+  - 969
+- cluster_id: 0
+  location:
+  - 794
+  - 996
+- cluster_id: 0
+  location:
+  - 837
+  - 990
+- cluster_id: 0
+  location:
+  - 872
+  - 987
+- cluster_id: 0
+  location:
+  - 906
+  - 980
+- cluster_id: 0
+  location:
+  - 954
+  - 991
+- cluster_id: 0
+  location:
+  - 972
+  - 989
+- cluster_id: 0
+  location:
+  - 6
+  - 931
+- cluster_id: 0
+  location:
+  - 72
+  - 936
+- cluster_id: 0
+  location:
+  - 87
+  - 961
+- cluster_id: 0
+  location:
+  - 139
+  - 929
+- cluster_id: 0
+  location:
+  - 161
+  - 950
+- cluster_id: 0
+  location:
+  - 202
+  - 931
+- cluster_id: 0
+  location:
+  - 253
+  - 940
+- cluster_id: 0
+  location:
+  - 276
+  - 934
+- cluster_id: 0
+  location:
+  - 322
+  - 947
+- cluster_id: 0
+  location:
+  - 375
+  - 928
+- cluster_id: 0
+  location:
+  - 420
+  - 957
+- cluster_id: 0
+  location:
+  - 435
+  - 927
+- cluster_id: 0
+  location:
+  - 491
+  - 956
+- cluster_id: 0
+  location:
+  - 535
+  - 939
+- cluster_id: 0
+  location:
+  - 567
+  - 926
+- cluster_id: 0
+  location:
+  - 579
+  - 949
+- cluster_id: 0
+  location:
+  - 628
+  - 927
+- cluster_id: 0
+  location:
+  - 682
+  - 933
+- cluster_id: 0
+  location:
+  - 708
+  - 939
+- cluster_id: 0
+  location:
+  - 768
+  - 956
+- cluster_id: 0
+  location:
+  - 775
+  - 942
+- cluster_id: 0
+  location:
+  - 842
+  - 949
+- cluster_id: 0
+  location:
+  - 847
+  - 929
+- cluster_id: 0
+  location:
+  - 913
+  - 955
+- cluster_id: 0
+  location:
+  - 935
+  - 925
+- cluster_id: 0
+  location:
+  - 994
+  - 956
+- cluster_id: 0
+  location:
+  - 20
+  - 888
+- cluster_id: 0
+  location:
+  - 71
+  - 918
+- cluster_id: 0
+  location:
+  - 90
+  - 914
+- cluster_id: 0
+  location:
+  - 125
+  - 896
+- cluster_id: 0
+  location:
+  - 190
+  - 898
+- cluster_id: 0
+  location:
+  - 214
+  - 897
+- cluster_id: 0
+  location:
+  - 259
+  - 890
+- cluster_id: 0
+  location:
+  - 278
+  - 911
+- cluster_id: 0
+  location:
+  - 345
+  - 892
+- cluster_id: 0
+  location:
+  - 384
+  - 901
+- cluster_id: 0
+  location:
+  - 419
+  - 914
+- cluster_id: 0
+  location:
+  - 459
+  - 913
+- cluster_id: 0
+  location:
+  - 499
+  - 901
+- cluster_id: 0
+  location:
+  - 505
+  - 906
+- cluster_id: 0
+  location:
+  - 571
+  - 901
+- cluster_id: 0
+  location:
+  - 599
+  - 887
+- cluster_id: 0
+  location:
+  - 633
+  - 901
+- cluster_id: 0
+  location:
+  - 668
+  - 919
+- cluster_id: 0
+  location:
+  - 727
+  - 917
+- cluster_id: 0
+  location:
+  - 740
+  - 905
+- cluster_id: 0
+  location:
+  - 803
+  - 897
+- cluster_id: 0
+  location:
+  - 829
+  - 911
+- cluster_id: 0
+  location:
+  - 876
+  - 905
+- cluster_id: 0
+  location:
+  - 888
+  - 922
+- cluster_id: 0
+  location:
+  - 959
+  - 897
+- cluster_id: 0
+  location:
+  - 999
+  - 888
+- cluster_id: 0
+  location:
+  - 6
+  - 856
+- cluster_id: 0
+  location:
+  - 39
+  - 862
+- cluster_id: 0
+  location:
+  - 84
+  - 875
+- cluster_id: 0
+  location:
+  - 125
+  - 874
+- cluster_id: 0
+  location:
+  - 176
+  - 851
+- cluster_id: 0
+  location:
+  - 223
+  - 859
+- cluster_id: 0
+  location:
+  - 234
+  - 885
+- cluster_id: 0
+  location:
+  - 283
+  - 847
+- cluster_id: 0
+  location:
+  - 343
+  - 861
+- cluster_id: 0
+  location:
+  - 381
+  - 883
+- cluster_id: 0
+  location:
+  - 397
+  - 865
+- cluster_id: 0
+  location:
+  - 436
+  - 873
+- cluster_id: 0
+  location:
+  - 488
+  - 863
+- cluster_id: 0
+  location:
+  - 530
+  - 866
+- cluster_id: 0
+  location:
+  - 552
+  - 848
+- cluster_id: 0
+  location:
+  - 601
+  - 868
+- cluster_id: 0
+  location:
+  - 652
+  - 850
+- cluster_id: 0
+  location:
+  - 669
+  - 853
+- cluster_id: 0
+  location:
+  - 695
+  - 851
+- cluster_id: 0
+  location:
+  - 768
+  - 880
+- cluster_id: 0
+  location:
+  - 777
+  - 861
+- cluster_id: 0
+  location:
+  - 811
+  - 871
+- cluster_id: 0
+  location:
+  - 866
+  - 876
+- cluster_id: 0
+  location:
+  - 898
+  - 864
+- cluster_id: 0
+  location:
+  - 948
+  - 854
+- cluster_id: 0
+  location:
+  - 990
+  - 866
+- cluster_id: 0
+  location:
+  - 0
+  - 813
+- cluster_id: 0
+  location:
+  - 54
+  - 829
+- cluster_id: 0
+  location:
+  - 86
+  - 813
+- cluster_id: 0
+  location:
+  - 136
+  - 828
+- cluster_id: 0
+  location:
+  - 172
+  - 820
+- cluster_id: 0
+  location:
+  - 212
+  - 835
+- cluster_id: 0
+  location:
+  - 232
+  - 842
+- cluster_id: 0
+  location:
+  - 270
+  - 812
+- cluster_id: 0
+  location:
+  - 329
+  - 837
+- cluster_id: 0
+  location:
+  - 366
+  - 827
+- cluster_id: 0
+  location:
+  - 387
+  - 815
+- cluster_id: 0
+  location:
+  - 434
+  - 835
+- cluster_id: 0
+  location:
+  - 468
+  - 810
+- cluster_id: 0
+  location:
+  - 501
+  - 842
+- cluster_id: 0
+  location:
+  - 543
+  - 840
+- cluster_id: 0
+  location:
+  - 588
+  - 808
+- cluster_id: 0
+  location:
+  - 642
+  - 813
+- cluster_id: 0
+  location:
+  - 688
+  - 818
+- cluster_id: 0
+  location:
+  - 708
+  - 827
+- cluster_id: 0
+  location:
+  - 754
+  - 826
+- cluster_id: 0
+  location:
+  - 791
+  - 823
+- cluster_id: 0
+  location:
+  - 813
+  - 835
+- cluster_id: 0
+  location:
+  - 878
+  - 812
+- cluster_id: 0
+  location:
+  - 892
+  - 809
+- cluster_id: 0
+  location:
+  - 942
+  - 822
+- cluster_id: 0
+  location:
+  - 970
+  - 843
+- cluster_id: 0
+  location:
+  - 36
+  - 802
+- cluster_id: 0
+  location:
+  - 69
+  - 772
+- cluster_id: 0
+  location:
+  - 82
+  - 781
+- cluster_id: 0
+  location:
+  - 141
+  - 790
+- cluster_id: 0
+  location:
+  - 170
+  - 803
+- cluster_id: 0
+  location:
+  - 214
+  - 793
+- cluster_id: 0
+  location:
+  - 231
+  - 790
+- cluster_id: 0
+  location:
+  - 285
+  - 783
+- cluster_id: 0
+  location:
+  - 345
+  - 797
+- cluster_id: 0
+  location:
+  - 378
+  - 788
+- cluster_id: 0
+  location:
+  - 418
+  - 807
+- cluster_id: 0
+  location:
+  - 432
+  - 772
+- cluster_id: 0
+  location:
+  - 467
+  - 778
+- cluster_id: 0
+  location:
+  - 504
+  - 793
+- cluster_id: 0
+  location:
+  - 574
+  - 800
+- cluster_id: 0
+  location:
+  - 601
+  - 793
+- cluster_id: 0
+  location:
+  - 645
+  - 807
+- cluster_id: 0
+  location:
+  - 689
+  - 803
+- cluster_id: 0
+  location:
+  - 728
+  - 778
+- cluster_id: 0
+  location:
+  - 744
+  - 800
+- cluster_id: 0
+  location:
+  - 802
+  - 772
+- cluster_id: 0
+  location:
+  - 814
+  - 789
+- cluster_id: 0
+  location:
+  - 873
+  - 801
+- cluster_id: 0
+  location:
+  - 918
+  - 783
+- cluster_id: 0
+  location:
+  - 944
+  - 801
+- cluster_id: 0
+  location:
+  - 986
+  - 773
+- cluster_id: 0
+  location:
+  - 10
+  - 731
+- cluster_id: 0
+  location:
+  - 48
+  - 763
+- cluster_id: 0
+  location:
+  - 103
+  - 769
+- cluster_id: 0
+  location:
+  - 136
+  - 768
+- cluster_id: 0
+  location:
+  - 167
+  - 741
+- cluster_id: 0
+  location:
+  - 199
+  - 752
+- cluster_id: 0
+  location:
+  - 259
+  - 768
+- cluster_id: 0
+  location:
+  - 296
+  - 748
+- cluster_id: 0
+  location:
+  - 336
+  - 736
+- cluster_id: 0
+  location:
+  - 359
+  - 745
+- cluster_id: 0
+  location:
+  - 390
+  - 740
+- cluster_id: 0
+  location:
+  - 429
+  - 736
+- cluster_id: 0
+  location:
+  - 490
+  - 755
+- cluster_id: 0
+  location:
+  - 502
+  - 768
+- cluster_id: 0
+  location:
+  - 558
+  - 751
+- cluster_id: 0
+  location:
+  - 601
+  - 734
+- cluster_id: 0
+  location:
+  - 643
+  - 769
+- cluster_id: 0
+  location:
+  - 682
+  - 745
+- cluster_id: 0
+  location:
+  - 726
+  - 747
+- cluster_id: 0
+  location:
+  - 733
+  - 735
+- cluster_id: 0
+  location:
+  - 794
+  - 735
+- cluster_id: 0
+  location:
+  - 830
+  - 746
+- cluster_id: 0
+  location:
+  - 857
+  - 754
+- cluster_id: 0
+  location:
+  - 901
+  - 764
+- cluster_id: 0
+  location:
+  - 959
+  - 763
+- cluster_id: 0
+  location:
+  - 978
+  - 769
+- cluster_id: 0
+  location:
+  - 21
+  - 696
+- cluster_id: 0
+  location:
+  - 70
+  - 697
+- cluster_id: 0
+  location:
+  - 77
+  - 717
+- cluster_id: 0
+  location:
+  - 125
+  - 698
+- cluster_id: 0
+  location:
+  - 191
+  - 706
+- cluster_id: 0
+  location:
+  - 201
+  - 729
+- cluster_id: 0
+  location:
+  - 261
+  - 715
+- cluster_id: 0
+  location:
+  - 280
+  - 725
+- cluster_id: 0
+  location:
+  - 338
+  - 728
+- cluster_id: 0
+  location:
+  - 383
+  - 727
+- cluster_id: 0
+  location:
+  - 406
+  - 699
+- cluster_id: 0
+  location:
+  - 427
+  - 714
+- cluster_id: 0
+  location:
+  - 472
+  - 710
+- cluster_id: 0
+  location:
+  - 503
+  - 702
+- cluster_id: 0
+  location:
+  - 561
+  - 708
+- cluster_id: 0
+  location:
+  - 597
+  - 697
+- cluster_id: 0
+  location:
+  - 634
+  - 712
+- cluster_id: 0
+  location:
+  - 671
+  - 703
+- cluster_id: 0
+  location:
+  - 723
+  - 698
+- cluster_id: 0
+  location:
+  - 752
+  - 717
+- cluster_id: 0
+  location:
+  - 793
+  - 731
+- cluster_id: 0
+  location:
+  - 842
+  - 715
+- cluster_id: 0
+  location:
+  - 860
+  - 708
+- cluster_id: 0
+  location:
+  - 907
+  - 725
+- cluster_id: 0
+  location:
+  - 955
+  - 726
+- cluster_id: 0
+  location:
+  - 975
+  - 717
+- cluster_id: 0
+  location:
+  - 1
+  - 660
+- cluster_id: 0
+  location:
+  - 51
+  - 670
+- cluster_id: 0
+  location:
+  - 106
+  - 688
+- cluster_id: 0
+  location:
+  - 118
+  - 682
+- cluster_id: 0
+  location:
+  - 183
+  - 683
+- cluster_id: 0
+  location:
+  - 194
+  - 668
+- cluster_id: 0
+  location:
+  - 250
+  - 689
+- cluster_id: 0
+  location:
+  - 304
+  - 665
+- cluster_id: 0
+  location:
+  - 334
+  - 690
+- cluster_id: 0
+  location:
+  - 356
+  - 676
+- cluster_id: 0
+  location:
+  - 405
+  - 676
+- cluster_id: 0
+  location:
+  - 430
+  - 656
+- cluster_id: 0
+  location:
+  - 482
+  - 688
+- cluster_id: 0
+  location:
+  - 506
+  - 673
+- cluster_id: 0
+  location:
+  - 544
+  - 688
+- cluster_id: 0
+  location:
+  - 606
+  - 656
+- cluster_id: 0
+  location:
+  - 635
+  - 684
+- cluster_id: 0
+  location:
+  - 671
+  - 666
+- cluster_id: 0
+  location:
+  - 707
+  - 658
+- cluster_id: 0
+  location:
+  - 734
+  - 680
+- cluster_id: 0
+  location:
+  - 780
+  - 672
+- cluster_id: 0
+  location:
+  - 816
+  - 681
+- cluster_id: 0
+  location:
+  - 860
+  - 655
+- cluster_id: 0
+  location:
+  - 888
+  - 661
+- cluster_id: 0
+  location:
+  - 932
+  - 668
+- cluster_id: 0
+  location:
+  - 978
+  - 672
+- cluster_id: 0
+  location:
+  - 3
+  - 639
+- cluster_id: 0
+  location:
+  - 50
+  - 619
+- cluster_id: 0
+  location:
+  - 91
+  - 651
+- cluster_id: 0
+  location:
+  - 137
+  - 646
+- cluster_id: 0
+  location:
+  - 158
+  - 645
+- cluster_id: 0
+  location:
+  - 196
+  - 618
+- cluster_id: 0
+  location:
+  - 264
+  - 623
+- cluster_id: 0
+  location:
+  - 290
+  - 623
+- cluster_id: 0
+  location:
+  - 318
+  - 623
+- cluster_id: 0
+  location:
+  - 372
+  - 653
+- cluster_id: 0
+  location:
+  - 397
+  - 640
+- cluster_id: 0
+  location:
+  - 428
+  - 626
+- cluster_id: 0
+  location:
+  - 489
+  - 646
+- cluster_id: 0
+  location:
+  - 528
+  - 646
+- cluster_id: 0
+  location:
+  - 555
+  - 627
+- cluster_id: 0
+  location:
+  - 611
+  - 635
+- cluster_id: 0
+  location:
+  - 635
+  - 630
+- cluster_id: 0
+  location:
+  - 659
+  - 640
+- cluster_id: 0
+  location:
+  - 706
+  - 631
+- cluster_id: 0
+  location:
+  - 750
+  - 640
+- cluster_id: 0
+  location:
+  - 798
+  - 647
+- cluster_id: 0
+  location:
+  - 822
+  - 621
+- cluster_id: 0
+  location:
+  - 853
+  - 641
+- cluster_id: 0
+  location:
+  - 889
+  - 638
+- cluster_id: 0
+  location:
+  - 933
+  - 632
+- cluster_id: 0
+  location:
+  - 975
+  - 644
+- cluster_id: 0
+  location:
+  - 32
+  - 608
+- cluster_id: 0
+  location:
+  - 40
+  - 614
+- cluster_id: 0
+  location:
+  - 107
+  - 602
+- cluster_id: 0
+  location:
+  - 129
+  - 612
+- cluster_id: 0
+  location:
+  - 171
+  - 609
+- cluster_id: 0
+  location:
+  - 222
+  - 582
+- cluster_id: 0
+  location:
+  - 232
+  - 592
+- cluster_id: 0
+  location:
+  - 280
+  - 597
+- cluster_id: 0
+  location:
+  - 333
+  - 597
+- cluster_id: 0
+  location:
+  - 363
+  - 579
+- cluster_id: 0
+  location:
+  - 404
+  - 581
+- cluster_id: 0
+  location:
+  - 447
+  - 597
+- cluster_id: 0
+  location:
+  - 474
+  - 598
+- cluster_id: 0
+  location:
+  - 500
+  - 585
+- cluster_id: 0
+  location:
+  - 541
+  - 604
+- cluster_id: 0
+  location:
+  - 594
+  - 609
+- cluster_id: 0
+  location:
+  - 620
+  - 609
+- cluster_id: 0
+  location:
+  - 683
+  - 590
+- cluster_id: 0
+  location:
+  - 705
+  - 598
+- cluster_id: 0
+  location:
+  - 762
+  - 586
+- cluster_id: 0
+  location:
+  - 770
+  - 605
+- cluster_id: 0
+  location:
+  - 835
+  - 603
+- cluster_id: 0
+  location:
+  - 849
+  - 582
+- cluster_id: 0
+  location:
+  - 895
+  - 586
+- cluster_id: 0
+  location:
+  - 927
+  - 588
+- cluster_id: 0
+  location:
+  - 995
+  - 591
+- cluster_id: 0
+  location:
+  - 31
+  - 566
+- cluster_id: 0
+  location:
+  - 65
+  - 559
+- cluster_id: 0
+  location:
+  - 93
+  - 563
+- cluster_id: 0
+  location:
+  - 116
+  - 555
+- cluster_id: 0
+  location:
+  - 156
+  - 540
+- cluster_id: 0
+  location:
+  - 195
+  - 575
+- cluster_id: 0
+  location:
+  - 246
+  - 566
+- cluster_id: 0
+  location:
+  - 287
+  - 553
+- cluster_id: 0
+  location:
+  - 335
+  - 563
+- cluster_id: 0
+  location:
+  - 351
+  - 545
+- cluster_id: 0
+  location:
+  - 390
+  - 543
+- cluster_id: 0
+  location:
+  - 456
+  - 572
+- cluster_id: 0
+  location:
+  - 491
+  - 571
+- cluster_id: 0
+  location:
+  - 515
+  - 549
+- cluster_id: 0
+  location:
+  - 558
+  - 556
+- cluster_id: 0
+  location:
+  - 584
+  - 566
+- cluster_id: 0
+  location:
+  - 626
+  - 561
+- cluster_id: 0
+  location:
+  - 666
+  - 571
+- cluster_id: 0
+  location:
+  - 730
+  - 552
+- cluster_id: 0
+  location:
+  - 731
+  - 562
+- cluster_id: 0
+  location:
+  - 798
+  - 549
+- cluster_id: 0
+  location:
+  - 815
+  - 545
+- cluster_id: 0
+  location:
+  - 855
+  - 540
+- cluster_id: 0
+  location:
+  - 902
+  - 561
+- cluster_id: 0
+  location:
+  - 934
+  - 560
+- cluster_id: 0
+  location:
+  - 999
+  - 543
+- cluster_id: 0
+  location:
+  - 19
+  - 529
+- cluster_id: 0
+  location:
+  - 44
+  - 501
+- cluster_id: 0
+  location:
+  - 99
+  - 513
+- cluster_id: 0
+  location:
+  - 137
+  - 519
+- cluster_id: 0
+  location:
+  - 160
+  - 512
+- cluster_id: 0
+  location:
+  - 209
+  - 521
+- cluster_id: 0
+  location:
+  - 263
+  - 509
+- cluster_id: 0
+  location:
+  - 269
+  - 514
+- cluster_id: 0
+  location:
+  - 318
+  - 529
+- cluster_id: 0
+  location:
+  - 361
+  - 508
+- cluster_id: 0
+  location:
+  - 415
+  - 527
+- cluster_id: 0
+  location:
+  - 428
+  - 524
+- cluster_id: 0
+  location:
+  - 497
+  - 527
+- cluster_id: 0
+  location:
+  - 535
+  - 504
+- cluster_id: 0
+  location:
+  - 549
+  - 525
+- cluster_id: 0
+  location:
+  - 587
+  - 502
+- cluster_id: 0
+  location:
+  - 627
+  - 515
+- cluster_id: 0
+  location:
+  - 690
+  - 503
+- cluster_id: 0
+  location:
+  - 730
+  - 527
+- cluster_id: 0
+  location:
+  - 734
+  - 514
+- cluster_id: 0
+  location:
+  - 800
+  - 522
+- cluster_id: 0
+  location:
+  - 829
+  - 526
+- cluster_id: 0
+  location:
+  - 860
+  - 528
+- cluster_id: 0
+  location:
+  - 889
+  - 522
+- cluster_id: 0
+  location:
+  - 939
+  - 516
+- cluster_id: 0
+  location:
+  - 967
+  - 531
+- cluster_id: 0
+  location:
+  - 19
+  - 482
+- cluster_id: 0
+  location:
+  - 55
+  - 475
+- cluster_id: 0
+  location:
+  - 108
+  - 497
+- cluster_id: 0
+  location:
+  - 143
+  - 468
+- cluster_id: 0
+  location:
+  - 176
+  - 474
+- cluster_id: 0
+  location:
+  - 207
+  - 492
+- cluster_id: 0
+  location:
+  - 238
+  - 492
+- cluster_id: 0
+  location:
+  - 286
+  - 468
+- cluster_id: 0
+  location:
+  - 335
+  - 465
+- cluster_id: 0
+  location:
+  - 356
+  - 474
+- cluster_id: 0
+  location:
+  - 412
+  - 476
+- cluster_id: 0
+  location:
+  - 442
+  - 464
+- cluster_id: 0
+  location:
+  - 493
+  - 482
+- cluster_id: 0
+  location:
+  - 536
+  - 468
+- cluster_id: 0
+  location:
+  - 568
+  - 482
+- cluster_id: 0
+  location:
+  - 612
+  - 487
+- cluster_id: 0
+  location:
+  - 645
+  - 497
+- cluster_id: 0
+  location:
+  - 658
+  - 471
+- cluster_id: 0
+  location:
+  - 710
+  - 476
+- cluster_id: 0
+  location:
+  - 749
+  - 468
+- cluster_id: 0
+  location:
+  - 804
+  - 495
+- cluster_id: 0
+  location:
+  - 840
+  - 485
+- cluster_id: 0
+  location:
+  - 882
+  - 478
+- cluster_id: 0
+  location:
+  - 888
+  - 488
+- cluster_id: 0
+  location:
+  - 961
+  - 480
+- cluster_id: 0
+  location:
+  - 995
+  - 493
+- cluster_id: 0
+  location:
+  - 35
+  - 434
+- cluster_id: 0
+  location:
+  - 68
+  - 442
+- cluster_id: 0
+  location:
+  - 82
+  - 440
+- cluster_id: 0
+  location:
+  - 125
+  - 424
+- cluster_id: 0
+  location:
+  - 188
+  - 425
+- cluster_id: 0
+  location:
+  - 226
+  - 452
+- cluster_id: 0
+  location:
+  - 242
+  - 452
+- cluster_id: 0
+  location:
+  - 286
+  - 450
+- cluster_id: 0
+  location:
+  - 335
+  - 446
+- cluster_id: 0
+  location:
+  - 363
+  - 431
+- cluster_id: 0
+  location:
+  - 393
+  - 429
+- cluster_id: 0
+  location:
+  - 450
+  - 457
+- cluster_id: 0
+  location:
+  - 464
+  - 450
+- cluster_id: 0
+  location:
+  - 520
+  - 426
+- cluster_id: 0
+  location:
+  - 567
+  - 443
+- cluster_id: 0
+  location:
+  - 596
+  - 447
+- cluster_id: 0
+  location:
+  - 633
+  - 439
+- cluster_id: 0
+  location:
+  - 660
+  - 454
+- cluster_id: 0
+  location:
+  - 730
+  - 452
+- cluster_id: 0
+  location:
+  - 749
+  - 441
+- cluster_id: 0
+  location:
+  - 791
+  - 443
+- cluster_id: 0
+  location:
+  - 816
+  - 443
+- cluster_id: 0
+  location:
+  - 866
+  - 436
+- cluster_id: 0
+  location:
+  - 895
+  - 439
+- cluster_id: 0
+  location:
+  - 957
+  - 438
+- cluster_id: 0
+  location:
+  - 992
+  - 436
+- cluster_id: 0
+  location:
+  - 28
+  - 417
+- cluster_id: 0
+  location:
+  - 57
+  - 385
+- cluster_id: 0
+  location:
+  - 107
+  - 392
+- cluster_id: 0
+  location:
+  - 134
+  - 406
+- cluster_id: 0
+  location:
+  - 171
+  - 415
+- cluster_id: 0
+  location:
+  - 200
+  - 394
+- cluster_id: 0
+  location:
+  - 259
+  - 404
+- cluster_id: 0
+  location:
+  - 299
+  - 413
+- cluster_id: 0
+  location:
+  - 313
+  - 420
+- cluster_id: 0
+  location:
+  - 362
+  - 417
+- cluster_id: 0
+  location:
+  - 397
+  - 416
+- cluster_id: 0
+  location:
+  - 434
+  - 387
+- cluster_id: 0
+  location:
+  - 495
+  - 396
+- cluster_id: 0
+  location:
+  - 530
+  - 422
+- cluster_id: 0
+  location:
+  - 563
+  - 405
+- cluster_id: 0
+  location:
+  - 600
+  - 389
+- cluster_id: 0
+  location:
+  - 637
+  - 421
+- cluster_id: 0
+  location:
+  - 687
+  - 411
+- cluster_id: 0
+  location:
+  - 719
+  - 405
+- cluster_id: 0
+  location:
+  - 748
+  - 410
+- cluster_id: 0
+  location:
+  - 771
+  - 403
+- cluster_id: 0
+  location:
+  - 809
+  - 413
+- cluster_id: 0
+  location:
+  - 856
+  - 392
+- cluster_id: 0
+  location:
+  - 920
+  - 396
+- cluster_id: 0
+  location:
+  - 954
+  - 414
+- cluster_id: 0
+  location:
+  - 979
+  - 416
+- cluster_id: 0
+  location:
+  - 10
+  - 357
+- cluster_id: 0
+  location:
+  - 71
+  - 361
+- cluster_id: 0
+  location:
+  - 104
+  - 355
+- cluster_id: 0
+  location:
+  - 151
+  - 355
+- cluster_id: 0
+  location:
+  - 179
+  - 356
+- cluster_id: 0
+  location:
+  - 214
+  - 347
+- cluster_id: 0
+  location:
+  - 236
+  - 364
+- cluster_id: 0
+  location:
+  - 304
+  - 379
+- cluster_id: 0
+  location:
+  - 323
+  - 369
+- cluster_id: 0
+  location:
+  - 360
+  - 373
+- cluster_id: 0
+  location:
+  - 411
+  - 354
+- cluster_id: 0
+  location:
+  - 428
+  - 351
+- cluster_id: 0
+  location:
+  - 496
+  - 383
+- cluster_id: 0
+  location:
+  - 517
+  - 367
+- cluster_id: 0
+  location:
+  - 543
+  - 379
+- cluster_id: 0
+  location:
+  - 603
+  - 364
+- cluster_id: 0
+  location:
+  - 631
+  - 367
+- cluster_id: 0
+  location:
+  - 684
+  - 351
+- cluster_id: 0
+  location:
+  - 710
+  - 348
+- cluster_id: 0
+  location:
+  - 760
+  - 382
+- cluster_id: 0
+  location:
+  - 785
+  - 349
+- cluster_id: 0
+  location:
+  - 840
+  - 358
+- cluster_id: 0
+  location:
+  - 873
+  - 383
+- cluster_id: 0
+  location:
+  - 910
+  - 366
+- cluster_id: 0
+  location:
+  - 953
+  - 381
+- cluster_id: 0
+  location:
+  - 992
+  - 366
+- cluster_id: 0
+  location:
+  - 30
+  - 327
+- cluster_id: 0
+  location:
+  - 39
+  - 321
+- cluster_id: 0
+  location:
+  - 95
+  - 332
+- cluster_id: 0
+  location:
+  - 148
+  - 316
+- cluster_id: 0
+  location:
+  - 166
+  - 337
+- cluster_id: 0
+  location:
+  - 216
+  - 317
+- cluster_id: 0
+  location:
+  - 242
+  - 342
+- cluster_id: 0
+  location:
+  - 273
+  - 343
+- cluster_id: 0
+  location:
+  - 321
+  - 336
+- cluster_id: 0
+  location:
+  - 383
+  - 310
+- cluster_id: 0
+  location:
+  - 405
+  - 334
+- cluster_id: 0
+  location:
+  - 437
+  - 329
+- cluster_id: 0
+  location:
+  - 462
+  - 309
+- cluster_id: 0
+  location:
+  - 513
+  - 343
+- cluster_id: 0
+  location:
+  - 568
+  - 331
+- cluster_id: 0
+  location:
+  - 590
+  - 334
+- cluster_id: 0
+  location:
+  - 643
+  - 322
+- cluster_id: 0
+  location:
+  - 679
+  - 340
+- cluster_id: 0
+  location:
+  - 724
+  - 318
+- cluster_id: 0
+  location:
+  - 749
+  - 330
+- cluster_id: 0
+  location:
+  - 777
+  - 321
+- cluster_id: 0
+  location:
+  - 830
+  - 327
+- cluster_id: 0
+  location:
+  - 848
+  - 322
+- cluster_id: 0
+  location:
+  - 913
+  - 318
+- cluster_id: 0
+  location:
+  - 938
+  - 323
+- cluster_id: 0
+  location:
+  - 990
+  - 331
+- cluster_id: 0
+  location:
+  - 20
+  - 276
+- cluster_id: 0
+  location:
+  - 75
+  - 290
+- cluster_id: 0
+  location:
+  - 88
+  - 295
+- cluster_id: 0
+  location:
+  - 128
+  - 306
+- cluster_id: 0
+  location:
+  - 170
+  - 293
+- cluster_id: 0
+  location:
+  - 210
+  - 290
+- cluster_id: 0
+  location:
+  - 246
+  - 308
+- cluster_id: 0
+  location:
+  - 284
+  - 270
+- cluster_id: 0
+  location:
+  - 324
+  - 303
+- cluster_id: 0
+  location:
+  - 363
+  - 295
+- cluster_id: 0
+  location:
+  - 402
+  - 273
+- cluster_id: 0
+  location:
+  - 427
+  - 297
+- cluster_id: 0
+  location:
+  - 494
+  - 307
+- cluster_id: 0
+  location:
+  - 535
+  - 280
+- cluster_id: 0
+  location:
+  - 551
+  - 297
+- cluster_id: 0
+  location:
+  - 577
+  - 279
+- cluster_id: 0
+  location:
+  - 637
+  - 293
+- cluster_id: 0
+  location:
+  - 658
+  - 288
+- cluster_id: 0
+  location:
+  - 701
+  - 298
+- cluster_id: 0
+  location:
+  - 748
+  - 296
+- cluster_id: 0
+  location:
+  - 773
+  - 278
+- cluster_id: 0
+  location:
+  - 816
+  - 304
+- cluster_id: 0
+  location:
+  - 848
+  - 279
+- cluster_id: 0
+  location:
+  - 893
+  - 286
+- cluster_id: 0
+  location:
+  - 936
+  - 305
+- cluster_id: 0
+  location:
+  - 968
+  - 284
+- cluster_id: 0
+  location:
+  - 37
+  - 268
+- cluster_id: 0
+  location:
+  - 52
+  - 238
+- cluster_id: 0
+  location:
+  - 90
+  - 261
+- cluster_id: 0
+  location:
+  - 134
+  - 234
+- cluster_id: 0
+  location:
+  - 158
+  - 248
+- cluster_id: 0
+  location:
+  - 194
+  - 269
+- cluster_id: 0
+  location:
+  - 248
+  - 244
+- cluster_id: 0
+  location:
+  - 286
+  - 267
+- cluster_id: 0
+  location:
+  - 341
+  - 235
+- cluster_id: 0
+  location:
+  - 380
+  - 265
+- cluster_id: 0
+  location:
+  - 418
+  - 265
+- cluster_id: 0
+  location:
+  - 454
+  - 245
+- cluster_id: 0
+  location:
+  - 463
+  - 255
+- cluster_id: 0
+  location:
+  - 537
+  - 256
+- cluster_id: 0
+  location:
+  - 558
+  - 259
+- cluster_id: 0
+  location:
+  - 613
+  - 237
+- cluster_id: 0
+  location:
+  - 637
+  - 242
+- cluster_id: 0
+  location:
+  - 669
+  - 233
+- cluster_id: 0
+  location:
+  - 698
+  - 242
+- cluster_id: 0
+  location:
+  - 765
+  - 236
+- cluster_id: 0
+  location:
+  - 801
+  - 258
+- cluster_id: 0
+  location:
+  - 832
+  - 235
+- cluster_id: 0
+  location:
+  - 848
+  - 267
+- cluster_id: 0
+  location:
+  - 896
+  - 248
+- cluster_id: 0
+  location:
+  - 928
+  - 233
+- cluster_id: 0
+  location:
+  - 968
+  - 257
+- cluster_id: 0
+  location:
+  - 27
+  - 223
+- cluster_id: 0
+  location:
+  - 44
+  - 229
+- cluster_id: 0
+  location:
+  - 77
+  - 219
+- cluster_id: 0
+  location:
+  - 121
+  - 193
+- cluster_id: 0
+  location:
+  - 189
+  - 193
+- cluster_id: 0
+  location:
+  - 194
+  - 224
+- cluster_id: 0
+  location:
+  - 233
+  - 220
+- cluster_id: 0
+  location:
+  - 272
+  - 219
+- cluster_id: 0
+  location:
+  - 333
+  - 212
+- cluster_id: 0
+  location:
+  - 375
+  - 204
+- cluster_id: 0
+  location:
+  - 393
+  - 231
+- cluster_id: 0
+  location:
+  - 433
+  - 209
+- cluster_id: 0
+  location:
+  - 499
+  - 193
+- cluster_id: 0
+  location:
+  - 512
+  - 203
+- cluster_id: 0
+  location:
+  - 540
+  - 212
+- cluster_id: 0
+  location:
+  - 582
+  - 231
+- cluster_id: 0
+  location:
+  - 640
+  - 224
+- cluster_id: 0
+  location:
+  - 653
+  - 203
+- cluster_id: 0
+  location:
+  - 723
+  - 211
+- cluster_id: 0
+  location:
+  - 758
+  - 227
+- cluster_id: 0
+  location:
+  - 796
+  - 225
+- cluster_id: 0
+  location:
+  - 821
+  - 196
+- cluster_id: 0
+  location:
+  - 879
+  - 207
+- cluster_id: 0
+  location:
+  - 922
+  - 217
+- cluster_id: 0
+  location:
+  - 941
+  - 204
+- cluster_id: 0
+  location:
+  - 973
+  - 200
+- cluster_id: 0
+  location:
+  - 21
+  - 176
+- cluster_id: 0
+  location:
+  - 38
+  - 186
+- cluster_id: 0
+  location:
+  - 107
+  - 188
+- cluster_id: 0
+  location:
+  - 127
+  - 186
+- cluster_id: 0
+  location:
+  - 179
+  - 183
+- cluster_id: 0
+  location:
+  - 228
+  - 167
+- cluster_id: 0
+  location:
+  - 232
+  - 157
+- cluster_id: 0
+  location:
+  - 293
+  - 160
+- cluster_id: 0
+  location:
+  - 320
+  - 179
+- cluster_id: 0
+  location:
+  - 373
+  - 171
+- cluster_id: 0
+  location:
+  - 422
+  - 171
+- cluster_id: 0
+  location:
+  - 434
+  - 170
+- cluster_id: 0
+  location:
+  - 470
+  - 181
+- cluster_id: 0
+  location:
+  - 504
+  - 168
+- cluster_id: 0
+  location:
+  - 567
+  - 169
+- cluster_id: 0
+  location:
+  - 578
+  - 170
+- cluster_id: 0
+  location:
+  - 642
+  - 183
+- cluster_id: 0
+  location:
+  - 677
+  - 165
+- cluster_id: 0
+  location:
+  - 720
+  - 174
+- cluster_id: 0
+  location:
+  - 758
+  - 159
+- cluster_id: 0
+  location:
+  - 799
+  - 169
+- cluster_id: 0
+  location:
+  - 826
+  - 175
+- cluster_id: 0
+  location:
+  - 883
+  - 191
+- cluster_id: 0
+  location:
+  - 907
+  - 176
+- cluster_id: 0
+  location:
+  - 951
+  - 193
+- cluster_id: 0
+  location:
+  - 976
+  - 168
+- cluster_id: 0
+  location:
+  - 3
+  - 120
+- cluster_id: 0
+  location:
+  - 55
+  - 126
+- cluster_id: 0
+  location:
+  - 110
+  - 117
+- cluster_id: 0
+  location:
+  - 150
+  - 127
+- cluster_id: 0
+  location:
+  - 155
+  - 149
+- cluster_id: 0
+  location:
+  - 212
+  - 128
+- cluster_id: 0
+  location:
+  - 255
+  - 152
+- cluster_id: 0
+  location:
+  - 277
+  - 129
+- cluster_id: 0
+  location:
+  - 316
+  - 142
+- cluster_id: 0
+  location:
+  - 370
+  - 149
+- cluster_id: 0
+  location:
+  - 417
+  - 137
+- cluster_id: 0
+  location:
+  - 452
+  - 152
+- cluster_id: 0
+  location:
+  - 465
+  - 134
+- cluster_id: 0
+  location:
+  - 512
+  - 145
+- cluster_id: 0
+  location:
+  - 540
+  - 125
+- cluster_id: 0
+  location:
+  - 611
+  - 150
+- cluster_id: 0
+  location:
+  - 623
+  - 151
+- cluster_id: 0
+  location:
+  - 659
+  - 149
+- cluster_id: 0
+  location:
+  - 703
+  - 117
+- cluster_id: 0
+  location:
+  - 754
+  - 130
+- cluster_id: 0
+  location:
+  - 806
+  - 154
+- cluster_id: 0
+  location:
+  - 830
+  - 132
+- cluster_id: 0
+  location:
+  - 882
+  - 151
+- cluster_id: 0
+  location:
+  - 900
+  - 138
+- cluster_id: 0
+  location:
+  - 932
+  - 142
+- cluster_id: 0
+  location:
+  - 991
+  - 143
+- cluster_id: 0
+  location:
+  - 1
+  - 93
+- cluster_id: 0
+  location:
+  - 40
+  - 80
+- cluster_id: 0
+  location:
+  - 114
+  - 115
+- cluster_id: 0
+  location:
+  - 148
+  - 82
+- cluster_id: 0
+  location:
+  - 168
+  - 92
+- cluster_id: 0
+  location:
+  - 195
+  - 111
+- cluster_id: 0
+  location:
+  - 261
+  - 80
+- cluster_id: 0
+  location:
+  - 301
+  - 100
+- cluster_id: 0
+  location:
+  - 327
+  - 97
+- cluster_id: 0
+  location:
+  - 346
+  - 107
+- cluster_id: 0
+  location:
+  - 404
+  - 93
+- cluster_id: 0
+  location:
+  - 441
+  - 93
+- cluster_id: 0
+  location:
+  - 480
+  - 106
+- cluster_id: 0
+  location:
+  - 523
+  - 90
+- cluster_id: 0
+  location:
+  - 570
+  - 89
+- cluster_id: 0
+  location:
+  - 597
+  - 116
+- cluster_id: 0
+  location:
+  - 628
+  - 87
+- cluster_id: 0
+  location:
+  - 656
+  - 105
+- cluster_id: 0
+  location:
+  - 695
+  - 105
+- cluster_id: 0
+  location:
+  - 730
+  - 111
+- cluster_id: 0
+  location:
+  - 799
+  - 100
+- cluster_id: 0
+  location:
+  - 832
+  - 78
+- cluster_id: 0
+  location:
+  - 865
+  - 84
+- cluster_id: 0
+  location:
+  - 896
+  - 91
+- cluster_id: 0
+  location:
+  - 944
+  - 96
+- cluster_id: 0
+  location:
+  - 992
+  - 81
+- cluster_id: 0
+  location:
+  - 10
+  - 77
+- cluster_id: 0
+  location:
+  - 41
+  - 70
+- cluster_id: 0
+  location:
+  - 94
+  - 61
+- cluster_id: 0
+  location:
+  - 136
+  - 47
+- cluster_id: 0
+  location:
+  - 164
+  - 66
+- cluster_id: 0
+  location:
+  - 222
+  - 71
+- cluster_id: 0
+  location:
+  - 253
+  - 63
+- cluster_id: 0
+  location:
+  - 291
+  - 65
+- cluster_id: 0
+  location:
+  - 321
+  - 58
+- cluster_id: 0
+  location:
+  - 361
+  - 56
+- cluster_id: 0
+  location:
+  - 393
+  - 63
+- cluster_id: 0
+  location:
+  - 454
+  - 54
+- cluster_id: 0
+  location:
+  - 498
+  - 57
+- cluster_id: 0
+  location:
+  - 528
+  - 52
+- cluster_id: 0
+  location:
+  - 552
+  - 45
+- cluster_id: 0
+  location:
+  - 582
+  - 74
+- cluster_id: 0
+  location:
+  - 623
+  - 42
+- cluster_id: 0
+  location:
+  - 672
+  - 57
+- cluster_id: 0
+  location:
+  - 700
+  - 72
+- cluster_id: 0
+  location:
+  - 762
+  - 53
+- cluster_id: 0
+  location:
+  - 791
+  - 66
+- cluster_id: 0
+  location:
+  - 812
+  - 50
+- cluster_id: 0
+  location:
+  - 854
+  - 54
+- cluster_id: 0
+  location:
+  - 893
+  - 67
+- cluster_id: 0
+  location:
+  - 925
+  - 71
+- cluster_id: 0
+  location:
+  - 967
+  - 47
+- cluster_id: 0
+  location:
+  - 19
+  - 1
+- cluster_id: 0
+  location:
+  - 67
+  - 23
+- cluster_id: 0
+  location:
+  - 91
+  - 13
+- cluster_id: 0
+  location:
+  - 133
+  - 18
+- cluster_id: 0
+  location:
+  - 155
+  - 8
+- cluster_id: 0
+  location:
+  - 227
+  - 12
+- cluster_id: 0
+  location:
+  - 231
+  - 31
+- cluster_id: 0
+  location:
+  - 275
+  - 6
+- cluster_id: 0
+  location:
+  - 340
+  - 36
+- cluster_id: 0
+  location:
+  - 357
+  - 22
+- cluster_id: 0
+  location:
+  - 412
+  - 12
+- cluster_id: 0
+  location:
+  - 453
+  - 35
+- cluster_id: 0
+  location:
+  - 480
+  - 18
+- cluster_id: 0
+  location:
+  - 511
+  - 32
+- cluster_id: 0
+  location:
+  - 554
+  - 12
+- cluster_id: 0
+  location:
+  - 606
+  - 17
+- cluster_id: 0
+  location:
+  - 650
+  - 17
+- cluster_id: 0
+  location:
+  - 669
+  - 33
+- cluster_id: 0
+  location:
+  - 721
+  - 9
+- cluster_id: 0
+  location:
+  - 760
+  - 8
+- cluster_id: 0
+  location:
+  - 776
+  - 14
+- cluster_id: 0
+  location:
+  - 816
+  - 37
+- cluster_id: 0
+  location:
+  - 876
+  - 5
+- cluster_id: 0
+  location:
+  - 907
+  - 4
+- cluster_id: 0
+  location:
+  - 926
+  - 25
+- cluster_id: 0
+  location:
+  - 974
+  - 33
+- cluster_id: 0
+  location:
+  - 362
+  - 500
+- cluster_id: 0
+  location:
+  - 535
+  - 258
+- cluster_id: 0
+  location:
+  - 593
+  - 622
+- cluster_id: 0
+  location:
+  - 771
+  - 178
+- cluster_id: 0
+  location:
+  - 797
+  - 249
+- cluster_id: 0
+  location:
+  - 233
+  - 370
+- cluster_id: 0
+  location:
+  - 525
+  - 931
+- cluster_id: 0
+  location:
+  - 652
+  - 274
+- cluster_id: 0
+  location:
+  - 126
+  - 452
+- cluster_id: 0
+  location:
+  - 614
+  - 300
+- cluster_id: 0
+  location:
+  - 971
+  - 668
+- cluster_id: 0
+  location:
+  - 355
+  - 516
+- cluster_id: 0
+  location:
+  - 307
+  - 872
+- cluster_id: 0
+  location:
+  - 91
+  - 754
+- cluster_id: 0
+  location:
+  - 426
+  - 586
+- cluster_id: 0
+  location:
+  - 49
+  - 596
+- cluster_id: 0
+  location:
+  - 738
+  - 254
+- cluster_id: 0
+  location:
+  - 868
+  - 78
+- cluster_id: 0
+  location:
+  - 539
+  - 892
+- cluster_id: 0
+  location:
+  - 0
+  - 164
+- cluster_id: 0
+  location:
+  - 459
+  - 640
+- cluster_id: 0
+  location:
+  - 437
+  - 405
+- cluster_id: 0
+  location:
+  - 580
+  - 672
+- cluster_id: 0
+  location:
+  - 235
+  - 959
+InNode: []
+OutNode: []
+RelayNode: []
+SensorNode: []
+node_phy_spe:
+  capacity: 10
+  com_range: 80.0
+  package_size: 400.0
+  prob_gp: 0.7
+  sen_range: 40.0
+nodes: []
